@@ -12,6 +12,7 @@ List<Products> products = new List<Products>
   new Products (){Id=3,PName="Laptop",PPrice=35000,PBrand="Lenovo",MfgDate=new DateTime(day:5,month:2,year:2021),ExpDate=new DateTime(day:16,month:8,year:2024)},
   new Products (){Id=4,PName="Tablet",PPrice=35000,PBrand="Samsung",MfgDate=new DateTime(day:14,month:6,year:2020),ExpDate=new DateTime(day:23,month:1,year:2025)},
   new Products (){Id=5,PName="Laptop",PPrice=55000,PBrand="Vivo",MfgDate=new DateTime(day:6,month:9,year:2021),ExpDate=new DateTime(day:12,month:1,year:2025)},
+  new Products (){Id=6,PName="Ipad",PPrice=55000,PBrand="Apple",MfgDate=new DateTime(day:14,month:10,year:2019),ExpDate=new DateTime(day:12,month:1,year:2025)}
 
 
 
